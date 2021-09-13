@@ -1,0 +1,15 @@
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGOUT = 'LOGOUT';
+export const ADD_QUESTION = 'ADD_QUESTION';
+export const GET_QUESTION = 'GET_QUESTION';
+export const QUESTION_ERROR = 'QUESTION_ERROR';
+export const CLEAR_QUESTION = 'CLEAR_QUESTION';
+export const GET_EXAM = 'GET_EXAM';
+export const EXAM_ERROR ='EXAM_ERROR';
+export const CLEAR_EXAM = 'CLEAR_EXAM';
+export const GET_BRANCH = 'GET_BRANCH';
+export const BRANCH_ERROR ='BRANCH_ERROR';
+export const CLEAR_BRANCH = 'CLEAR_BRANCH';
